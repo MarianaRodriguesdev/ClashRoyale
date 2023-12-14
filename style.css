@@ -1,0 +1,59 @@
+@font-face {
+   font-family: clash;
+   src: url("fonts//SCCCBackBeat.woff");
+}
+body {
+   background-image: url(ap.jpg);
+   background-repeat: no-repeat; 
+   background-size: cover;
+}
+.per {
+   width:30rem;
+ 
+   
+}
+.bruxa {
+   width: 20rem;
+}
+
+h1 {
+   font-family: clash;
+   font-size: 2rem;
+   color: beige;
+   text-align: right;
+   padding: 0px 10rem 0px 0rem;
+   
+}
+.p {
+   font-family: clash;
+   text-align: right;
+   color: beige;
+}
+.morcego {
+   width: 20rem;
+   padding: 0px 10rem;
+}
+p {
+   font-family: clash;
+   color:azure;
+   width:600px;
+   font-size:20px;
+   padding: 10px 1px 50px 100px;
+}
+.clash {
+   text-align: center;
+   width: 15rem;
+   padding: 0px 15rem;
+}
+.up { font-family: clash;
+   color: azure;
+   display: flex;
+   flex-direction: column;
+}
+.ap {
+   text-align: center;
+}
+#perso{
+   display: flex;
+   justify-content: flex-end;
+}
